@@ -1,11 +1,11 @@
-About r-rematch
-===============
+About r-rematch-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rematch-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/MangoTheCat/rematch
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rematch-feedstock/blob/main/LICENSE.txt)
 
 Summary: A small wrapper on 'regexpr' to extract the matches and captured groups from the match of a regular expression to a character vector.
 
